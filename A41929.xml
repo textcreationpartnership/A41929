@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from sea, or, The True narrative of the great and bloody fight between several of His Majesties ship [sic] and four Tnrks [sic] men of war and of the victory obtained by the English : as    also the account of the names, qualities and carriage of guns of those Turks    that were sunk and slain ... and each particular as it was communicated from    on board the Greenwich t[o] a gentleman here in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41929</idno>
+            <idno type="STC">Wing G1730</idno>
+            <idno type="STC">ESTC R43215</idno>
+            <idno type="EEBO-CITATION">27024694</idno>
+            <idno type="OCLC">ocm 27024694</idno>
+            <idno type="VID">109919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1718:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from sea, or, The True narrative of the great and bloody fight between several of His Majesties ship [sic] and four Tnrks [sic] men of war and of the victory obtained by the English : as    also the account of the names, qualities and carriage of guns of those Turks    that were sunk and slain ... and each particular as it was communicated from    on board the Greenwich t[o] a gentleman here in London.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"April 1, 1680."</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109919:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>
+               <hi>Great News from Sea,</hi> OR, THE TRUE NARRATIVE OF THE <hi>Great and Bloody Fight</hi> Between ſeveral of his Majeſties Ship and four <hi>Turks</hi> Men of War.</head>
+            <head type="sub">And of the Victory obtained by the <hi>Engliſh.</hi>
+            </head>
+            <head type="sub">As alſo an Account of the Names, Qualities, and Carriage of Guns of thoſe <hi>Turks</hi> that were ſunk and flain in the Fight: Likewiſe the number of Chriſtian Slaves redeemed, and of <hi>Turks</hi> blown up, and drowned in the Sea.</head>
+            <head type="sub">And each particular, as it was communicated from on Board the <hi>Greenwich</hi> t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Gentleman here in <hi>London.</hi>
+            </head>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>April 1. 1680.</date>
+                     </dateline>
+                  </opener>
+                  <p>HAVING received orders for the Convey<g ref="char:EOLhyphen"/>ing of two ſmall <hi>Spaniſh</hi> Merchant men ſenventy or ninety leagues W. S. W.
+<pb n="2" facs="tcp:109919:2"/>
+                     <!-- PDF PAGE 32 -->
+the one being Bound for the Iſland of <hi>reneriff</hi> and the other (the adviſe Boat) bound for the <hi>Weſt-Indies</hi> ſailed from <hi>Cadiz</hi> the laſt day of the laſt Month; with the two aforeſaid Ships, and hav<g ref="char:EOLhyphen"/>ing but little Wind all Day at S. E. and becalmed all Night, till five this Morning, I was by E<g ref="char:EOLhyphen"/>ſteemation at noon ten leagues <hi>W. S. W.</hi> from <hi>Rota</hi> point, about one of Clock this Afternoon, We ſaw four ſails of Ships to'h Windward of us, ſtearing N. <hi>W.</hi> ſo they boar downwards upon us with all the Sail they could make; ſhewing <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Colours till they came within a legue of us: which was about three a Clock then the head<g ref="char:EOLhyphen"/>moſt brought to with his Head to the South<g ref="char:EOLhyphen"/>ward; and ſo lay by and ſhewed his <hi>Turks</hi> Co<g ref="char:EOLhyphen"/>lours a little while: (but we ſhewed our Co<g ref="char:EOLhyphen"/>lours) as the reſt came up with him, they all came under, his Steam, and came by the Lee; and ſo lay about an hour for Conſultation, and then boar away beyond us a little nearer, &amp; came by the Lee again, then our Ships being in a readyneſs to Fight: VVe ſpread our Colours, and immediately ſired a Gun of Defiance; but they anſwered us not, neither by Gun, nor Colours but ſtill lay by, at half an hour paſt five they bear round upon us then we Tackt and ſtood right with them, which they no ſooner ſaw but getting their Larboard Tack aboard with all the ſail they could make; ſtood to the Eaſtward from us: VVe gave them Chaſe about an hour, but ſeeing we could do no
+<pb n="3" facs="tcp:109919:2"/>
+                     <!-- PDF PAGE 32 -->
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ood, and night coming on; fearing to looſe our Convoyage; about ſix we left of all our Chaſe and ſtood in our courſe with our Convoys; two of of theſe ships we ſuppoſed to have between thirty and forty Guns; and the other two between twen<g ref="char:EOLhyphen"/>ty four and thirty Guns, but though we had not the good fortune to come near enough to do any Execution upon the Rogues. We were accidentally Iuſtruments in driving them upon Captain <hi>Tiu</hi> of the <hi>Samphir:</hi> who the next Morning came up with them, and having maintained a ten hours Fight with them all, had ſo diabled the <hi>Calihaſh,</hi> a ship of eight and twenty Guns: that the <hi>Ad<g ref="char:EOLhyphen"/>venture</hi> coming to his aſſiſtance: she was taken and is now in <hi>Tangere.</hi> The Vice Admiral, and o<g ref="char:EOLhyphen"/>ther of our Fr<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gats, who were come out of the noiſe of the Guns: continued in the chaſe of the other three: one of which, to wit the <hi>Orange</hi> a ship of four and twenty Guns, they ſtranded and deſtroyed. It likewiſe hapned that we turned back the <hi>Citrone tree,</hi> a Ship of thirty Guns, who was endeavouring to get into the <hi>Streights</hi> Mouth as Sir <hi>Richard Munden</hi> and we were with our Convoyes on <hi>Saturday</hi> the ſeven and twentieth of <hi>March</hi> to whom vve gave Chaſe: and though she out ſtriptus, yet she fell in vvith the <hi>Briſtol</hi> and <hi>Adventure</hi> of <hi>Lapeſyratel,</hi> vvho forced her on shore: and got out of her fifty
+<pb n="4" facs="tcp:109919:3"/>
+                     <!-- PDF PAGE 33-->
+                     <hi>Chriſtians,</hi> and ſeventy <hi>Turks</hi> and there Burnt her.</p>
+                  <p>Thus three of theſe Pirats have been in a ſmall time deſtroyed, vvhice is the moſt conſiderable ſucceſs, vve have had for a long ſeaſon againſt them.</p>
+                  <p>This Letter showen athe admiralty board this Motning, of which this a true Copy.</p>
+                  <trailer>FINIS.</trailer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
